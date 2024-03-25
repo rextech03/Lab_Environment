@@ -1,10 +1,11 @@
+'use client';
 import React from 'react'
-import VolumetricFlask from './Volumentric_flask'
+import {Model} from './VolumentricFlask'
 
 export default function Experience() {
   return (
     <div>
-        <VolumetricFlask />
+        <Model />
     </div>
   )
 }

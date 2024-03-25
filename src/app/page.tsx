@@ -1,4 +1,4 @@
-import Image from "next/image";
+'use client'
 import Experience from '@/components/Experience';
 
 export default function Home() {
